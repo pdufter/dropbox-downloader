@@ -1,0 +1,3 @@
+dropbox==9.4.0
+sqlitedict==1.6.0
+tqdm
